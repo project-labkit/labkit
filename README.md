@@ -1,2 +1,2 @@
 # labkit
-This project is now private and will be available in the future.
+This project is private and will be released publicly in the future.
